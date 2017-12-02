@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Job run" max_length="40" name="x_108443_sndml_job_run" type="collection">
+        <element label="Created start" max_length="40" name="created_start" type="glide_date_time"/>
+        <element label="Created until" max_length="40" name="created_until" type="glide_date_time"/>
+        <element dependent="table_name" dependent_on_field="table_name" label="Filter" max_length="4000" name="filter" type="conditions" use_dependent_field="true"/>
+        <element label="Job" mandatory="true" max_length="40" name="job" reference="x_108443_sndml_job" type="reference"/>
+        <element label="Records deleted" max_length="40" name="records_deleted" type="integer"/>
+        <element label="Records expected" max_length="40" name="records_expected" type="integer"/>
+        <element label="Records inserted" max_length="40" name="records_inserted" type="integer"/>
+        <element label="Records updated" max_length="40" name="records_updated" type="integer"/>
+        <element label="Table name" max_length="80" name="table_name" type="table_name"/>
+        <element label="Updated start" max_length="40" name="updated_start" type="glide_date_time"/>
+        <element label="Updated until" max_length="40" name="updated_until" type="glide_date_time"/>
+    </element>
+</database>

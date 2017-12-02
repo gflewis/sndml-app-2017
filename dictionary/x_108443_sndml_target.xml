@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Target Database" max_length="40" name="x_108443_sndml_target" type="collection">
+        <element default="true" hint="Automatically create missing tables" label="Auto Create Tables" max_length="40" name="autocreate" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Dialect" max_length="40" name="dialect" type="string">
+            <choice>
+                <element label="Default" sequence="0" value="default"/>
+                <element label="MS SQL Server" sequence="1" value="mssql"/>
+                <element label="MySQL" sequence="2" value="mysql"/>
+                <element label="Oracle" sequence="3" value="oracle"/>
+                <element label="Oracle_" sequence="4" value="oracle2"/>
+                <element label="Postgres" sequence="5" value="postgres"/>
+                <element label="SQLite" sequence="6" value="sqlite"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>

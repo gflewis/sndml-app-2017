@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="created_partition" table="x_108443_sndml_job" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>created_partition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quarter</label>
+            <language>en</language>
+            <name>x_108443_sndml_job</name>
+            <sequence>0</sequence>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0218eb2c4f7332002b6b4ea18110c794</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 22:09:31</sys_updated_on>
+            <value>quarter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>created_partition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Month</label>
+            <language>en</language>
+            <name>x_108443_sndml_job</name>
+            <sequence>1</sequence>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e18eb2c4f7332002b6b4ea18110c794</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 22:09:35</sys_updated_on>
+            <value>month</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>created_partition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Week</label>
+            <language>en</language>
+            <name>x_108443_sndml_job</name>
+            <sequence>2</sequence>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a18eb2c4f7332002b6b4ea18110c795</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 22:09:40</sys_updated_on>
+            <value>week</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>created_partition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Day</label>
+            <language>en</language>
+            <name>x_108443_sndml_job</name>
+            <sequence>3</sequence>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0618eb2c4f7332002b6b4ea18110c796</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 22:09:44</sys_updated_on>
+            <value>day</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>created_partition</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hour</label>
+            <language>en</language>
+            <name>x_108443_sndml_job</name>
+            <sequence>4</sequence>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce18eb2c4f7332002b6b4ea18110c796</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 22:09:48</sys_updated_on>
+            <value>hour</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>created_partition</element>
+            <name>x_108443_sndml_job</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 22:09:09</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4a18eb2c4f7332002b6b4ea18110c794</sys_id>
+            <sys_mod_count>7</sys_mod_count>
+            <sys_name>created_partition</sys_name>
+            <sys_package display_value="SNDML" source="x_108443_sndml">1d4c0eef4ff632002b6b4ea18110c73a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SNDML">1d4c0eef4ff632002b6b4ea18110c73a</sys_scope>
+            <sys_update_name>sys_choice_x_108443_sndml_job_created_partition</sys_update_name>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-13 19:11:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

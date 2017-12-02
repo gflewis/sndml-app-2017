@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Suite" max_length="40" name="x_108443_sndml_suite" type="collection">
+        <element label="Last run start" max_length="40" name="last_run_start" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element label="Run count" max_length="40" name="run_count" read_only="true" type="integer"/>
+        <element label="Run start" max_length="40" name="run_start" read_only="true" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="draft" label="Status" max_length="40" name="status" type="string">
+            <choice>
+                <element label="Draft" sequence="0" value="draft"/>
+                <element label="Ready" sequence="1" value="ready"/>
+                <element label="Running" sequence="2" value="running"/>
+                <element label="Sleep" sequence="3" value="sleep"/>
+                <element label="Finished" sequence="4" value="finished"/>
+            </choice>
+        </element>
+        <element active="false" label="Target database" mandatory="true" max_length="32" name="target" reference="x_108443_sndml_target" type="reference"/>
+        <index name="index">
+            <element name="target"/>
+        </index>
+    </element>
+</database>

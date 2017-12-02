@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="dbb323a84f7332002b6b4ea18110c707" sys_domain="global" table="x_108443_sndml_job" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>d8d4c03c4fb332002b6b4ea18110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>5cd4c03c4fb332002b6b4ea18110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table_name</element>
+            <position>2</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>dcd4c03c4fb332002b6b4ea18110c728</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sql_name</element>
+            <position>3</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>50d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>suite</element>
+            <position>4</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>d0d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>created_partition</element>
+            <position>5</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>54d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>d4d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>truncate</element>
+            <position>7</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>58d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insert_only</element>
+            <position>8</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>d8d4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>run_count</element>
+            <position>9</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>5cd4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>dcd4c03c4fb332002b6b4ea18110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>filter</element>
+            <position>11</position>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-04 00:14:38</sys_created_on>
+            <sys_id>50d4c03c4fb332002b6b4ea18110c72a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_108443_sndml_job" sys_domain="global" view="Default view">dbb323a84f7332002b6b4ea18110c707</sys_ui_section>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-04 00:14:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_108443_sndml_job</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>giles.lewis</sys_created_by>
+            <sys_created_on>2017-07-03 21:50:07</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbb323a84f7332002b6b4ea18110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_108443_sndml_job</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SNDML" source="x_108443_sndml">1d4c0eef4ff632002b6b4ea18110c73a</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="SNDML">1d4c0eef4ff632002b6b4ea18110c73a</sys_scope>
+            <sys_update_name>sys_ui_section_dbb323a84f7332002b6b4ea18110c707</sys_update_name>
+            <sys_updated_by>giles.lewis</sys_updated_by>
+            <sys_updated_on>2017-07-03 21:50:07</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Job" max_length="40" name="x_108443_sndml_job" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Load by" max_length="40" name="created_partition" type="string">
+            <choice>
+                <element label="Quarter" sequence="0" value="quarter"/>
+                <element label="Month" sequence="1" value="month"/>
+                <element label="Week" sequence="2" value="week"/>
+                <element label="Day" sequence="3" value="day"/>
+                <element label="Hour" sequence="4" value="hour"/>
+            </choice>
+        </element>
+        <element dependent="table_name" dependent_on_field="table_name" label="Filter" max_length="40" name="filter" type="conditions" use_dependent_field="true"/>
+        <element label="Insert only" max_length="40" name="insert_only" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element label="Run count" max_length="40" name="run_count" read_only="true" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="SQL name" max_length="40" name="sql_name" type="string"/>
+        <element label="Suite" mandatory="true" max_length="32" name="suite" reference="x_108443_sndml_suite" type="reference"/>
+        <element label="Table name" max_length="80" name="table_name" type="table_name"/>
+        <element label="Truncate" max_length="40" name="truncate" type="boolean"/>
+        <index name="index">
+            <element name="suite"/>
+        </index>
+    </element>
+</database>
